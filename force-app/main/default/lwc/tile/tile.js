@@ -1,4 +1,4 @@
-import { LightningElement } from "lwc";
+import { LightningElement, api } from "lwc";
 //import ursusResources from '@salesforce/resourceUrl/ursus_park';
 export default class Tile extends LightningElement {
   
