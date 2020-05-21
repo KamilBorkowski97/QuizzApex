@@ -1,0 +1,11 @@
+.singleTile {
+  background-color: brown;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: justify;
+  max-width: 100px;
+}
+
+.question-silhouette {
+	height: 100px;
+}

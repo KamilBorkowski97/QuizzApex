@@ -1,0 +1,8 @@
+.question-tile {
+  border: 2px solid #d2955d;
+  border-radius: 0.25rem;
+  display: block;
+  text-align: center;
+  font-weight: 500;
+  font-size: medium;
+}
